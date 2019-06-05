@@ -197,7 +197,7 @@ function send_email($email, $subject, $msg, $headers){
     $mail->SMTPSecure = 'tls';                            
     $mail->Port = 587;      
 
-    $mail->setFrom('closner_nevarez@hotmail.com', 'Noe');
+    $mail->setFrom('email@email.com', 'User');
     $mail->addAddress($email);
 
     //Content
