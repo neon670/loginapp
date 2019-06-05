@@ -1,6 +1,6 @@
 <?php
 
-$con = mysqli_connect('localhost', 'root', 'vagrant', 'login_db');
+$con = mysqli_connect('localhost', '', '', '');
 
 function row_count($result){
 

@@ -9,9 +9,9 @@ class Config {
 
     const SMTP_PORT = 25;
 
-    const SMTP_USER = 'closner_nevarez@hotmail.com';
+    const SMTP_USER = 'email';
 
-    const SMTP_PASSWORD = 'n0E67!ne';
+    const SMTP_PASSWORD = 'password';
 
 
 
